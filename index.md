@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Tie-Ler? I barely Know Her...
 
-You can use the [editor on GitHub](https://github.com/tylerkwald/SoftDesFinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This game was made by Tyler Ewald and Lucy Platt. Tie-ler? I barely know her. This game is an endless runner and the objective is to drive away from Babo with Tyler Ewald tied to the roof of your car. While you are running away from Babo there are Olin related obstacles that you have to dodge such as broken washers and smoking laptops. You are visualizing three different tracks and you can switch between them. Objects will spawn on each track and you will control the character to avoid the objects. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
